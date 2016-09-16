@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-battery-status": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-camera": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-media-capture": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-contacts": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-device-motion": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-device-orientation": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-dialogs": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-geolocation": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-media": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-vibration": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "ab9.phonegap.tutorials"
+        }
+    }
+}
